@@ -545,7 +545,7 @@ require (
 	github.com/cockroachdb/crlfmt v0.3.0 // indirect
 	github.com/cockroachdb/gostdlib v1.19.0 // indirect
 	github.com/containerd/cgroups v1.1.0 // indirect
-	github.com/containerd/containerd v1.7.27 // indirect
+	github.com/containerd/containerd v1.7.29 // indirect
 	github.com/containerd/containerd/api v1.8.0 // indirect
 	github.com/containerd/continuity v0.4.4 // indirect
 	github.com/containerd/errdefs v1.0.0 // indirect
